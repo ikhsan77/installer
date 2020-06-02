@@ -1,7 +1,4 @@
-# installer
-CUMA TOOLS INSTALLER
-
-# Cara Install
+# <center>Cara Install</center>
 <br>
 <li> $ pkg install git<br>
 <li> $ pkg install python2<br>
